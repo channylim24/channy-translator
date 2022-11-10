@@ -1,0 +1,3 @@
+export const DETECT_FETCH = "DETECT_FETCH";
+export const DETECT_SUCCESS = "DETECT_SUCCESS";
+export const DETECT_FAILED = "DETECT_FAILED";
